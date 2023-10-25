@@ -86,6 +86,7 @@ nav a:hover {
   height: 200px;
   margin-bottom: 10px;
   transition: transform 0.3s ease; /* Adding a smooth transition effect for the transform property */
+  cursor: pointer;
 }
 
 /* Hover effect for the work images */
@@ -100,9 +101,20 @@ nav a:hover {
   padding: 2rem;
   text-align: center;
 }
-
 .contact h2 {
   font-size: 2em;
   margin-bottom: 1rem;
 }
+
+.social-icons a{
+    color: #fff;
+    margin: 0 10px;
+    font-size: 24px;
+    transition: color 0.3s ease;
+    cursor: pointer
+  }
+
+  .social-icons a:hover {
+    color: #ff9900; /* Change color on hover */
+  
 
