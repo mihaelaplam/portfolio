@@ -114,20 +114,15 @@ nav a:hover {
 }
 
 /* Social icons */
-.skills-icons {
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  width: 100%;
-  font-size: 30px;
-
-}
 .skills-icons i {
   color: #fff;
   transition: color 0.3s ease;
   cursor: pointer;
+  text-align: center;
 }
-
+.skills-icons {
+  font-size: 30px
+}
 .skills-icons i:hover {
   color: #444444;
 }
