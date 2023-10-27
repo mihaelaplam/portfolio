@@ -40,7 +40,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #ff9900;
+  color: #171717;
 }
 
 /* Hero banner styles */
@@ -118,7 +118,7 @@ nav a:hover {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  width: 100%;
+  width: 100%; /* Set a fixed width for the container */
   font-size: 30px;
 
 }
