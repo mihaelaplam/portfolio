@@ -39,7 +39,7 @@ Provides my contact information, including mobile number, email address, and lin
 
 ## Mock up  
 
-![Screenshot](screenshot.png)
+![Screenshot](/images/screenshot.png)
 
 ## How to Use
 
