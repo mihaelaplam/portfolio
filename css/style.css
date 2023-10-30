@@ -60,6 +60,7 @@ nav a:hover {
 .jumbotron {
   padding: 20px;
   text-align: center;
+  border: 2px dotted blanchedalmond
 }
 /* CV button */
 .myButton {
