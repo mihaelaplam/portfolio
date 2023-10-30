@@ -40,7 +40,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #171717;
+  color: #ff9900;
 }
 
 /* Hero banner styles */
@@ -58,7 +58,7 @@ nav a:hover {
 
 /* Jumbotron */
 .jumbotron {
-  padding: 50px;
+  padding: 20px;
   text-align: center;
 }
 /* CV button */
@@ -103,7 +103,7 @@ nav a:hover {
 
 /* Main content styles */
 .page-wrapper {
-  padding: 2rem;
+  padding: 1rem;
 }
 
 .page-section {
