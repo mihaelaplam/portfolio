@@ -21,18 +21,21 @@ In this project, I focused on mirroring the portfolio template while adding my p
 1. Home
 Header: Displays the main logo and navigation links for easy access to different sections of the website.
 
-Hero Banner: Introduces Mihaela as an aspiring Frontend Developer based in London.
+- Hero Banner: Introduces myself as an aspiring Frontend Developer based in London.
 
-Jumbotron: Provides a welcoming message and a button to download Mihaela's CV.
+- Jumbotron: Provides a welcoming message and a button to download my CV.
 
 2. About Me
-Displays a brief introduction of Mihaela along with her profile picture.
+Displays a brief introduction about me along with my profile picture.
+
 3. Skills
 Lists Mihaela's skills in web development, including HTML5, CSS3, JavaScript, Git, and GitHub.
+
 4. Work
-Showcases images of Mihaela's previous work in web development.
+Showcases images of my previous work in web development.
+
 5. Contact Me
-Provides Mihaela's contact information, including mobile number, email address, and links to her LinkedIn and GitHub profiles.
+Provides my contact information, including mobile number, email address, and links to my LinkedIn and GitHub profiles.
 
 ## Mock up  
 
